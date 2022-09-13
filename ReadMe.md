@@ -14,8 +14,8 @@ gestures with some constraints on the environment. My work is an implementation 
 4. Calculate the Center of the hand. 
 6. Draw a circle mask from the center of the hand, and identify the number of fingers raised 
 based on the intersections.
-![circle mask and intersections](circle.png)
+![circle mask and intersections](assets/circle.png)
 7. Identify the finger names using the Convex Defect
 points by calculating the angle between the hand-axis and the fingertips points.
-![convex defects](convex_defects.png)
+![convex defects](assets/convex_defects.png)
 
